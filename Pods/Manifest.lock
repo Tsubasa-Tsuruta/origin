@@ -1,0 +1,21 @@
+PODS:
+  - Eureka (2.0.0-beta.1)
+
+DEPENDENCIES:
+  - Eureka (from `https://github.com/xmartlabs/Eureka.git`)
+
+EXTERNAL SOURCES:
+  Eureka:
+    :git: https://github.com/xmartlabs/Eureka.git
+
+CHECKOUT OPTIONS:
+  Eureka:
+    :commit: a3589423a6f1db511aaee837a0dd81f7e6a86a68
+    :git: https://github.com/xmartlabs/Eureka.git
+
+SPEC CHECKSUMS:
+  Eureka: d014adf16406745e1a78d5790ea37ed130a0a8e5
+
+PODFILE CHECKSUM: dc643debe22a214c3d906fd2ede9bdcd1253b779
+
+COCOAPODS: 1.1.1
